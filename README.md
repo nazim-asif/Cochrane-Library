@@ -10,9 +10,9 @@ the Cochrane Library review collection (https://www.cochranelibrary.com/cdsr/rev
 
 # Diagrams
 1. Need to open Diagram folder
-	i. high level overview are drown here: HighLevelView.png
-	ii. Sequence diagram of Parser Solution Sync here : CochraneLibraryApplication_main_Sync.png
-	iii. Sequence Diagram of parser Solution Async here: CochraneLibraryApplication_main_async.png
+	- * high level overview are drown here: HighLevelView.png
+	- * Sequence diagram of Parser Solution Sync here : CochraneLibraryApplication_main_Sync.png
+	- * Sequence Diagram of parser Solution Async here: CochraneLibraryApplication_main_async.png
 	
 	
 	
