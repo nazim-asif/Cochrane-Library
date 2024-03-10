@@ -3,10 +3,10 @@ We must build a Java command line application to gather and store URLs and assoc
 the Cochrane Library review collection (https://www.cochranelibrary.com/cdsr/reviews/topics).
 
 # Tools
--> Required: JDK 1.7+
--> Required: Apache HttpClient 4.5+
--> Optional (dependency management): Maven 3.3+
--> Add any supporting libraries you deem necessary (not crawlers, of course)
+* Required: JDK 1.7+
+*  Required: Apache HttpClient 4.5+
+* Optional (dependency management): Maven 3.3+
+* Add any supporting libraries you deem necessary (not crawlers, of course)
 
 # Diagrams
 1. Need to open Diagram folder
